@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1588191389 source:e:\lfa\tema_2_cb\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<string>
+
